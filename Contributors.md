@@ -1,5 +1,4 @@
 # Contributors
-- [JGGY521 ](https://github.com/JGGY521)
 - [Shambhavi Singh](https://github.com/Shambhavigith)
 - [Gaurav Mishra](https://github.com/gauravkmishra09)
 
@@ -1536,3 +1535,4 @@
 holaaa soy haroldgit 
 - [TheAdelsw](https://github.com/TheAdelsw)
 - - [kilol-x](https://github.com/kilol-x)
+- [kanikshaa2007](https://github.com/kanikshaa2007)
